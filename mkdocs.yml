@@ -1,0 +1,8 @@
+site_name: HackforLA.org wiki
+theme:
+  name: material
+  features:
+    - content.action.edit
+repo_url: https://github.com/hackforla/website-wiki
+repo_name: hackforla/website-wiki
+edit_uri: edit/main/docs/
