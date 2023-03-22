@@ -37,7 +37,7 @@ The Material for MkDocs design theme includes multiple configuration and extensi
 
 ### Material design customizations
 
-- [Additional CSS](https://squidfunk.github.io/mkdocs-material/customization/#additional-javascript) - using a separate style sheet to adjust specific elements  
+- [Additional CSS](https://squidfunk.github.io/mkdocs-material/customization/#additional-css) - using a separate style sheet to adjust specific elements  
 - [Additional JS](https://squidfunk.github.io/mkdocs-material/customization/#additional-javascript) - integrating other syntax or adding custom logic to the theme
 - [Theme extension](https://squidfunk.github.io/mkdocs-material/customization/#extending-the-theme) - an easy way to override parts of Material for MkDocs without forking from git
 
@@ -89,5 +89,5 @@ There are two recommended Markdown extension packages, [Python Markdown](https:/
   - [SuperFences](https://squidfunk.github.io/mkdocs-material/setup/extensions/python-markdown-extensions/#superfences) – facilitates creation of flowcharts, sequence diagrams, etc. including [Mermaid.js](https://mermaid-js.github.io/mermaid/) integration 
   - [Tabbed](https://squidfunk.github.io/mkdocs-material/setup/extensions/python-markdown-extensions/#tabbed) - allows usage of content tabs to group related content
   - [Table of Contents](https://squidfunk.github.io/mkdocs-material/setup/extensions/python-markdown/#table-of-contents) – automatically generates a table of contents
-  - [Tables](https://squidfunk.github.io/mkdocs-material/setup/extensions/python-markdown/#tables) – adds ability of create tables in Markdown  
+  - [Tables](https://squidfunk.github.io/mkdocs-material/setup/extensions/python-markdown/#tables) – adds ability to create tables in Markdown  
   - [Tasklist](https://squidfunk.github.io/mkdocs-material/setup/extensions/python-markdown-extensions/#tasklist) – allows usage of [GitHub Flavored Markdown](https://github.github.com/gfm/) inspired tasklists  
